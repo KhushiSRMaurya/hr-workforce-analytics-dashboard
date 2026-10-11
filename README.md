@@ -8,7 +8,7 @@ The goal was to practise Excel dashboard construction, KPI presentation, chart s
 
 ## Dashboard preview
 
-![HR Workforce Analytics Dashboard](screenshots/dashboard-preview.png)
+![HR Workforce Analytics Dashboard](dashboard-preview.png)
 
 *The preview shows the dashboard with filters selected. KPI values in the screenshot reflect the current filter selection and should not be read as the unfiltered totals.*
 
