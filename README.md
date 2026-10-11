@@ -71,7 +71,7 @@ Through this guided project, I practised:
 
 ## Attribution
 
-- Dataset/source: **[Vizspire](https://www.youtube.com/@Vizspire)(https://drive.google.com/uc?export=do...)**
+- Dataset/source: **[Vizspire](https://www.youtube.com/@Vizspire), [Dataset](https://drive.google.com/uc?export=do...)**
 - Guided tutorial/project reference: **[Build a STUNNING HR Workforce Dashboard (Step-by-Step) Excel Dashboard](https://youtu.be/6iIvo89gRsg?si=7aNphx4Wu6p9_tMC)**
 
 ## Author
@@ -79,5 +79,5 @@ Through this guided project, I practised:
 **Khushi Maurya**  
 Data Analyst Intern| Excel | SQL | Power BI | Python
 
-- LinkedIn: **[[Khushi](https://www.linkedin.com/in/khushi-satyaprakash-maurya)**
+- LinkedIn: **[Khushi](https://www.linkedin.com/in/khushi-satyaprakash-maurya)**
 - GitHub: **[Khushi Maurya](https://github.com/KhushiSRMaurya)**
