@@ -90,6 +90,6 @@ This guided project provided practice with Excel dashboard layout, PivotTables/P
 
 ## 11. Attribution and references
 
-- **Dataset creator/source:** Add name and URL.
-- **Dataset license/permission:** Verify and record before publishing the workbook publicly.
-- **Tutorial/project guide:** Add title and URL.
+- **Dataset creator/source:** Vizspire.
+- **Dataset license/permission:** Vizspire.
+- **Tutorial/project guide:** [Build a STUNNING HR Workforce Dashboard (Step-by-Step) Excel Dashboard](https://youtu.be/6iIvo89gRsg?si=dkvcFkzsXxOZ1k_e).
