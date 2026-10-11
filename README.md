@@ -66,8 +66,6 @@ Through this guided project, I practised:
 
 - This is a descriptive dashboard; it does not establish why a workforce pattern occurs or prove causal relationships.
 - Metric interpretation depends on the source data and the calculation used. Check the workbook before relying on any KPI.
-- The preview is filtered, so its displayed counts are not necessarily the totals for all 100 records.
-- The source data's provenance and redistribution license have not been verified in this repository. Before making the repository public, confirm that the original dataset/tutorial permits redistribution. If not, remove the embedded data workbook from the public repository and provide the original source link and instructions instead.
 
 ## Attribution
 
