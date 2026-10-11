@@ -71,15 +71,13 @@ Through this guided project, I practised:
 
 ## Attribution
 
-- Dataset/source: **Add the original dataset URL and creator here.**
-- Guided tutorial/project reference: **Add the tutorial title and URL here.**
-
-Please complete these attribution fields and verify redistribution permissions before publishing publicly.
+- Dataset/source: **[Vizspire](https://www.youtube.com/@Vizspire)(https://drive.google.com/uc?export=do...)**
+- Guided tutorial/project reference: **[Build a STUNNING HR Workforce Dashboard (Step-by-Step) Excel Dashboard](https://youtu.be/6iIvo89gRsg?si=7aNphx4Wu6p9_tMC)**
 
 ## Author
 
 **Khushi Maurya**  
-Aspiring Data Analyst | Excel | SQL | Power BI | Python
+Data Analyst Intern| Excel | SQL | Power BI | Python
 
-- LinkedIn: **Add your LinkedIn profile URL**
-- GitHub: **Add your GitHub profile URL**
+- LinkedIn: **[[Khushi](https://www.linkedin.com/in/khushi-satyaprakash-maurya)**
+- GitHub: **[Khushi Maurya](https://github.com/KhushiSRMaurya)**
